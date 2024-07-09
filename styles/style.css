@@ -60,3 +60,44 @@ padding: 21px 24px 21px 24px
     color: rgb(13, 19, 33);
     margin-bottom: 24px;
 }
+/* web sev sec  */
+.first-section{
+margin-top: 30px;
+max-width: 970px;
+margin: 0 auto;
+border-radius: 16px;
+background: rgba(13, 19, 33, 0.02);
+}
+
+.web-title{
+color: rgb(13, 19, 33);
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 80px;
+}
+.web-description{
+    text-align: center;
+    color: rgb(13, 19, 33);
+    margin-top: 24px;
+    margin-left: 45px;
+    margin-right: 45px;
+    margin-bottom: 30px;
+}
+/* coding part  */
+.coding-head{
+    display: flex;
+    margin: 48px;
+}
+.coding-title{
+    margin-top: 48px;
+    margin-bottom: 16px;
+    color: rgba(13, 19, 33, 0.7);
+font-size: 24px;
+font-weight: 700;
+}
+.coding-des{
+    color: rgb(13, 19, 33);
+    margin-bottom: 24px;
+}
