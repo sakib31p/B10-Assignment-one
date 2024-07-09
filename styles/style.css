@@ -147,3 +147,60 @@ font-weight: 800;
     margin: 25px;
     border-radius: 26px;
 }
+
+/* target part  */
+.target-title{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 80px;
+}
+.target-des{
+    color: rgb(13, 19, 33);
+    margin-bottom: 24px;text-align: center;
+    margin-top: 24px;
+    margin-left: 45px;
+    margin-right: 45px;
+    margin-bottom: 40px;
+}
+
+/* skils part  */
+.main-div{
+    display: flex;
+    gap: 20px;
+}
+.html-div{
+    padding: 32px;
+     border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);;
+}
+.html-title{
+color: rgb(13, 19, 33);
+font-size: 24px;
+font-weight: 800;
+margin-top: 20px;
+margin-bottom: 8px;
+}
+.html-des{
+    margin-bottom: 20px;
+    color: rgb(13, 19, 33);
+}
+.link-btn{
+    margin-top: 20px;
+    font-weight: 800;
+    color: black;
+}
+.css-div{
+    padding: 32px;
+    border-radius: 16px;
+
+    background: rgba(0, 76, 232, 0.05);
+}
+.js-div{
+    padding: 32px;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+}
