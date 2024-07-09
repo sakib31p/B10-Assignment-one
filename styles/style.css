@@ -1,0 +1,62 @@
+* {
+    margin: 0px auto;
+    padding: 0px auto;
+}
+/* navbar  */
+
+
+.azeret-mono-normal {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 38px;
+    align-items: center;
+}
+.btn{
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    border-radius: 8px;
+    font-size: 600;
+    opacity: 0.8;
+    color: rgb(13, 19, 33);;  
+padding: 17px 24px 17px 24px;
+}
+nav > h2{
+color: rgb(13, 19, 33);
+font-size: 28px;
+font-weight: 800;
+line-height: 33px;
+}
+
+.hero{
+ margin-top: 52px;
+width: 1240px;
+height: 552px;
+background-image: url(../assets/Hero-bg.png);
+background-size: cover;
+text-align: center;
+}
+.hero-img{
+    margin-top: 40px;
+}
+.hero-title{
+    margin-top: 28px;
+    margin-bottom: 20px;
+}
+.btn-primary{
+    font-size: 20px;
+font-weight: 600;
+    color: aliceblue;
+    border-radius: 8px;
+background: rgb(13, 19, 33);
+padding: 21px 24px 21px 24px
+}
+.hero-description{
+    color: rgb(13, 19, 33);
+    margin-bottom: 24px;
+}
