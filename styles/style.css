@@ -204,3 +204,106 @@ margin-bottom: 8px;
     border-radius: 16px;
     background: rgba(255, 223, 0, 0.05);
 }
+
+/* My Next Target  */
+
+.react-div{
+    display: flex;
+    padding: 40px;
+    gap: 24px;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    
+    background: rgb(255, 255, 255);
+}
+.react-title{
+    margin-bottom: 12px;
+}
+.react-des{
+margin-bottom: 12px;
+}
+
+/* node  */
+.node-div{
+    display: flex;
+    padding: 40px;
+    gap: 24px;
+    margin-top: 15px;
+    box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+}
+.node-title{
+    margin-bottom: 12px;
+}
+.node-des{
+    margin-bottom: 12px;
+}
+
+/* mongo db  */
+.mongo-div{
+    display: flex;
+    padding: 40px;
+    gap: 24px;
+    margin-top: 15px;
+    box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+}
+.mongo-title{
+    margin-bottom: 12px;
+}
+.mongo-des{
+    margin-bottom: 12px;
+}
+
+/* I need Support part  */
+
+.support-div{
+    border-radius: 16px;
+ background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),
+rgba(0, 0, 0, 0.2),url(Email); 
+background-image: url(../assets/handshake.jpg);
+max-width: 960px;
+height: 310px;
+ background-size: cover;
+ background-position: center;
+ margin-top: 60px;
+ text-align: center;
+  } 
+.title{
+color: rgb(255, 255, 255);
+padding-top: 60px;
+font-size: 32px;
+font-weight: 700;
+}
+.description{
+    margin-top: 16px;
+    opacity: 0.7;
+    color: rgb(255, 255, 255);
+    margin-bottom: 40px;
+}
+.input-text{
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+padding-right: 100px;
+border: none;
+box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 8px;
+background: rgb(255, 255, 255);
+}
+.btn-submit{
+    padding: 6px 10px 8px 10px;
+    font-size: 20px;
+    border-radius: 8px;
+    color: rgb(13, 19, 33);
+background: rgb(255, 255, 255);
+font-weight: 600;
+}
