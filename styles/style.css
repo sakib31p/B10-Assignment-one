@@ -326,6 +326,9 @@ font-size: 20px;
 font-weight: 600;
 }
 .social-site{
+    display: flex;
+    gap: 10px;
+    list-style: none;
    margin-left: 350px;
 }
 
