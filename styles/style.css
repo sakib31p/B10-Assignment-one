@@ -307,3 +307,26 @@ background: rgb(255, 255, 255);
 background: rgb(255, 255, 255);
 font-weight: 600;
 }
+
+/* footer  */
+.footer{
+    margin-top: 110px;
+    max-width: 970px;
+    margin-bottom: 48px;
+}
+.footer-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer-title{
+    
+    color: rgb(13, 19, 33);
+font-size: 20px;
+font-weight: 600;
+}
+.social-site{
+   margin-left: 350px;
+}
+
+
